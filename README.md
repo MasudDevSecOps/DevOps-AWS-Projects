@@ -12,7 +12,7 @@ List your projects here with brief descriptions or links to individual project f
    - Description: Implementing a continuous integration and continuous delivery pipeline using Jenkins and AWS CodePipeline.
 
 ### Installation
-1. Clone this repository: `git clone https://github.com/your-username/DevOps-AWS-Projects.git`
+1. Clone this repository: `git clone https://github.com/MasudDevSecOps/DevOps-AWS-Projects.git`
 2. Navigate to the project folder: `cd DevOps-AWS-Projects/Project-1-AWS-Automation`
 
 
